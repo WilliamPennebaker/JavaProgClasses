@@ -4,7 +4,7 @@
  * Nothing is more annoying than trying to learn something in words you can't even understand.
  * With that said lets begin!
  * 
- * Author: William Pennebaker
+ * Author: William Pennebaker - https://github.com/WilliamPennebaker
  */
 public class FirstClass {
 
@@ -17,6 +17,8 @@ public class FirstClass {
         /**
          * Argueably the first thing taught in a programming language.
          * System.out.println(...); Will take whatever is in parentheses and prints it to the console.
+         * Oh, make sure to include the little ' ; ' (semi-colon) after every line. Java is very picky and doesn't know when a 
+         * line ends without that.
          */
         System.out.println("Hello, World!");
 
