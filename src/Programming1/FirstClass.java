@@ -1,4 +1,14 @@
 /**
+ * 
+ */
+package Programming1;
+
+/**
+ * 
+ */
+import java.util.Scanner;
+
+/**
  * Welcome to Java Programming 1! Here you will learn the basics of coding the programming language Java.
  * I will try to have comments on everything that needs them and explain the concepts in plain words.
  * Nothing is more annoying than trying to learn something in words you can't even understand.
@@ -70,5 +80,21 @@ public class FirstClass {
          */
         System.out.println("Our string: " + word);
 
+        /**
+         * 
+         */
+        Scanner myScanner = new Scanner(System.in);
+        int userNum;
+        String name;
+        System.out.println("Type in a number.");
+        userNum = myScanner.nextInt();
+        System.out.println("Type in a name.");
+        name = myScanner.nextLine();
+        System.out.println("Name: " + name + " Number: " + userNum);
+        
+        /**
+         * 
+         */
+        myScanner.close();
     }
 }

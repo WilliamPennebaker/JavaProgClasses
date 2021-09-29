@@ -1,6 +1,6 @@
 # Java Programming 1/2
 
-This java project goes over concepts that are taught in java programming 1 and 2. Created this to be a refresher or even a reference for someone starting java.
+This java project goes over concepts that are taught in java programming 1 and 2. (Note: these were the topics covered in the programming classes I took and helped teach. So the curriculum may not be the same for everyone else.) Created this to be a refresher or even a reference for someone starting java.
 
 Readme will be updated later.
 
@@ -18,3 +18,13 @@ To be edited for the future. Suggested order to follow.
 5. StringManipulation.java
 
 ### Programming 2
+
+Still working on this for now.
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 

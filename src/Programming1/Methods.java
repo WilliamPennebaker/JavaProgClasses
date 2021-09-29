@@ -1,3 +1,5 @@
+package Programming1;
+
 /**
  * Second class! You are on your way to becoming a real coder!
  * Now we want to talk about methods.
